@@ -2,4 +2,4 @@
 
 ## What is PHPCRUD?
 
-PHPCRUD is a CodeIgniter AUTO CRUD Generator, fast, flexible and secure.
+PHPCRUD is a CodeIgniter AUTO CRUD Generator which is fast, flexible and secure.
